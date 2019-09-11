@@ -123,5 +123,5 @@ fi
 ---
 
 ### Reference
-**[1] powerline**：   http://wiki.framins.com/#!linux/powerline.md
-**[2] bash_profile**： https://github.com/MilesChou/dotfiles/blob/master/.bash_profile
+**[1] powerline**：   http://wiki.framins.com/#!linux/powerline.md 
+**[2] bash_profile**： https://github.com/MilesChou/dotfiles/blob/master/.bash_profile 
